@@ -1,0 +1,2 @@
+class MessageDead (Message):
+	pass

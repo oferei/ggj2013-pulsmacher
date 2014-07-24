@@ -1,0 +1,2 @@
+class MessageHeartBeatEnd (Message):
+	pass
